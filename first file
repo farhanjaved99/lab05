@@ -1,8 +1,8 @@
 In this repository i have added my name and roll no., and i have also added my fsc, 1st semester and 2nd semester subjects.
 
-cout<< "My name is:"<<"Muhammad Bilal Saleem";
-cout<< "My roll no. is:"<<"2023-SET-016";
-
+cout<< "My name is:"<<"Farhan Javed";
+cout<< "My roll no. is:"<<"2023-SET-034";
+cout<< "The Addition of two Numbers:"<<a+b<<endl;
 my fsc subjects are as follow:
 physics, chemistry, math, urdu, english, islamyat
 
